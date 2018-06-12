@@ -1,0 +1,7 @@
+Kreirao sam novi branch 
+CheckOutovo sam ga
+Dodao ovaj fajl i editovao ga
+Kad sacuvam fajl 
+Radim Stage 
+Commit
+Kreiram Pull Request (Samo je pitanje da li pull request newbranch2->master ili newbranch2->newbranch2)
