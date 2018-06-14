@@ -1,1 +1,2 @@
 NewBranch1
+Practicing through Git Terminal
