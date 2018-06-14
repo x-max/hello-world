@@ -5,3 +5,4 @@ Kad sacuvam fajl
 Radim Stage 
 Commit
 Kreiram Pull Request (Samo je pitanje da li pull request newbranch2->master ili newbranch2->newbranch2)
+Kreirana promena na masterbranchu kroz git terminal
